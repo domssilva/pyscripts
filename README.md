@@ -1,4 +1,5 @@
 ## Projects in this repo
 
 - [`tinytodo`](tinytodo/): Flask to-do API
-- `iocs.py`: IOC extraction script using VirusTotal
+- [`virus total scan`](virus_total_scan): IOC extraction script using VirusTotal
+
