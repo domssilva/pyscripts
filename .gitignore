@@ -2,6 +2,23 @@
 __pycache__/
 *.py[cod]
 
+# python venv
+venv/
+ENV/
+env/
+.venv/
+pip-wheel-metadata/
+*.egg-info/
+dist/
+build/
+
+# SQLite
+*.db
+
+# Env variables
+.env
+.env.*
+
 # C extensions
 *.so
 
@@ -40,6 +57,7 @@ coverage.xml
 .mr.developer.cfg
 .project
 .pydevproject
+*.db
 
 # Rope
 .ropeproject
